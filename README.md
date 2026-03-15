@@ -6,7 +6,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Hi!+I'm+Sujal+%E2%80%94+your+bug-slaying+shinobi" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Hi!+I'm+Pratham+%E2%80%94" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,22 +18,21 @@
 ---
 
 ### About Me
-- I’m currently pursuing a B.Tech in **Information Technology** from Dr. B. R. Ambedkar National Institute of Technology, Jalandhar (2022–2026).  
+
 - **Core Languages**: C++, JavaScript, TypeScript, Python, SQL.  
 - **Frameworks & Libraries**: React.js, Next.js, Node.js, Express.js, FastAPI, Tailwind CSS, Redux.  
-- **DevOps & Cloud**: Docker, Kubernetes, Ansible, CI/CD, AWS (EC2, S3, Lambda), Terraform, Jenkins.  
-- **Interests**: Full-Stack Development, AI/Machine Learning, DevOps, and Competitive Programming.  
-- **Reach me at**: [sujal21102004@gmail.com](mailto:sujal21102004@gmail.com) | [Portfolio](https://sujal.works)  
+- **Interests**: Full-Stack Development
+- **Reach me at**: [prathnam1710@gmail.com](mailto:prathnam1710@gmail.com) |   
 
 ---
 
 ### Connect with Me
 <p align="center">
-  <a href="https://github.com/sujal-GITHUB" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a>
+  <a href="https://github.com/Pratham-1710" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a>
   <a href="https://sujal.works" target="_blank"><img src="https://api.iconify.design/material-symbols/public.svg?color=%23777777" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/sujal-kumar-38544b229/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/sujal_kumar1/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
-  <a href="https://x.com/sujal_here" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/pratham-namdev-3505a1286/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/Pratham_1710/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
+  <a href="https://x.com/prathamnamdev5" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
 </p>
 
 ---
@@ -67,10 +66,6 @@
 
 ---
 
-### GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sujal-github&theme=onedark&column=7&no-frame=true&margin-w=10" alt="GitHub Trophy" />
-</p>
 
 ---
 

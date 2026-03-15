@@ -79,7 +79,7 @@
 ---
 
 ### Recent GitHub Activity
-  [![Sujal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sujal-GITHUB&theme=github-compact)](https://github.com/sujal-GITHUB)
+  [![Sujal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pratham-1710&theme=github-compact)](https://github.com/Pratham-1710)
 
 ---
 

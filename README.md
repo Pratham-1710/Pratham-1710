@@ -29,7 +29,6 @@
 ### Connect with Me
 <p align="center">
   <a href="https://github.com/Pratham-1710" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a>
-  <a href="https://sujal.works" target="_blank"><img src="https://api.iconify.design/material-symbols/public.svg?color=%23777777" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/pratham-namdev-3505a1286/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
   <a href="https://leetcode.com/u/Pratham_1710/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
   <a href="https://x.com/prathamnamdev5" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
